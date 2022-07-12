@@ -24,10 +24,13 @@ Ballots were counted to tally the total number of votes across the three countie
 
 
      
-      ![County_Results](/Resources/County_Results.png)
+    ![County_Results](https://user-images.githubusercontent.com/108107856/178604485-caf86d62-6c48-48f8-9636-d68e053846f6.png)
       
   
   - Denver County had the largest number of votes.
+  
+  
+  
   
   - Results by Candidate
 
