@@ -23,7 +23,9 @@ Ballots were counted to tally the total number of votes across the three countie
 | Jefferson |         38,855        |           10.5%           |
 
 
-  ![County Results](/Resources/County_Results.png)
+     
+      ![County Results](/Resources/County_Results.png)
+      
   
   - Denver County had the largest number of votes.
   
