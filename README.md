@@ -29,7 +29,8 @@ Ballots were counted to tally the total number of votes across the three countie
   
   - Denver County had the largest number of votes.
   
-     ![Largest_County](https://user-images.githubusercontent.com/108107856/178604725-0f6417f1-5c74-4e0a-b93f-7d5ee00d01d3.png)
+         
+   ![Largest County](/Resources/Largest_County.png)
   
   
   - Results by Candidate
@@ -40,9 +41,11 @@ Ballots were counted to tally the total number of votes across the three countie
 | Diana DeGette       |        272,892        |           73.8%           |
 | Raymon A. Doane     |         11,606        |            3.1%           |
 
-  ![Candidate Results](/Resources/Candidate_Results.png)
+    ![Candidate Results](/Resources/Candidate_Results.png)
 
   - The winner of the election was Diana DeGette.
+  
+   ![Winner](/Resources/Winner.png)
 
 ## Election-Audit Summary
 
