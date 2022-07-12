@@ -42,14 +42,8 @@ Ballots were counted to tally the total number of votes across the three countie
 | Raymon A. Doane     |         11,606        |            3.1%           |
 
 
-
-
-
     ![Candidate_Results](/Resources/Candidate_Results.png)
-    
-    
-    
-    
+       
     
 
   - The winner of the election was Diana DeGette.
