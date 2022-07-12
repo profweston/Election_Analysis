@@ -10,7 +10,10 @@ Ballots were counted to tally the total number of votes across the three countie
 
   -	A total of 369,711 votes were cast in this congressional precinct.
   
-  - Denver County had the largest number of votes.
+  
+      ![Total votes](/Resources/Total_Votes.png)
+  
+
   
   -	Results by County
   
@@ -20,6 +23,11 @@ Ballots were counted to tally the total number of votes across the three countie
 | Denver    |        306,055        |           82.8%           |
 | Jefferson |         38,855        |           10.5%           |
 
+
+  ![County Results](/Resources/County_Results.png)
+  
+  - Denver County had the largest number of votes.
+  
   - Results by Candidate
 
 | Candidate           | Total Number of Votes | Percentage of Total Votes |
