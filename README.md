@@ -12,7 +12,6 @@ Ballots were counted to tally the total number of votes across the three countie
   
   
       ![Total votes](/Resources/Total_Votes.png)
-  
 
   
   -	Results by County
