@@ -48,7 +48,8 @@ Ballots were counted to tally the total number of votes across the three countie
     
   - The winner of the election was Diana DeGette.
   
-   ![Winner](/Resources/Winner.png)
+   ![Winner](https://user-images.githubusercontent.com/108107856/178805004-8496ac85-2b58-4aec-a3aa-f1f1a3e6e5dc.png)
+
 
 ## Election-Audit Summary
 
