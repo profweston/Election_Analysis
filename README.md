@@ -11,7 +11,7 @@ Ballots were counted to tally the total number of votes across the three countie
   -	A total of 369,711 votes were cast in this congressional precinct.
   
   
-      ![Total votes](/Resources/Total_Votes.png)
+      ![Total votes](/Resources/Total_votes.png)
 
   
   -	Results by County
