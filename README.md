@@ -2,7 +2,7 @@
 
 ## Overview
 
-An employee of the Colorado Board of Elections has requested an election audit of a recent congressional election. This request specifically addresses Jefferson, Denver, and Arapahoe counties. Results are broken down by couty as well as by candidate. The analysis was completed utilizing Python 3.9.12 to verify results that were previously obtained in Excel. A summary of results and implications for future applications of the code used for analysis are discussed.
+An employee of the Colorado Board of Elections has requested an election audit of a recent congressional election. This request specifically addresses Jefferson, Denver, and Arapahoe counties. Results are aggregated by couty as well as by candidate. The analysis was completed utilizing Python 3.9.12 to verify results that were previously obtained in Excel. A summary of results and implications for future applications of the code used for analysis are discussed.
 
 ## Election-Audit Results 
 
@@ -55,7 +55,9 @@ Ballots were counted to tally the total number of votes across the three countie
 
 Publishing ballot data results  varies extensively across a state and even more at the national level. As is evident in this analysis, auditing ballots is a process that can be automated with the use of Python code. Data can be analyzed, and reports published in an easy-to-understand standard format. In this report, the data were aggregated by county and by candidate, but other examples of aggregation include, but are not limited to, reporting by ballot type, by various precincts, or even by city. 
 
-Python code is scalable to larger projects and is easily modified to apply to any election variables that might warrant scrutiny. For example, suppose the Colorado Board of Election is interested in examining results of larger cities within a certain county. The code use for tracking votes by county could easily be modified to examine cities with larger populations. The same "for" loop could be modified to examine a **city_name** in **county_votes** for various cities tallied in the Elections Results data file. Also, by simply changing the link to the data file and a quick adjustment to variable names, this code can examine any sort of election such as general or primary elections. In regard to scalability, the county design could be scaled up to examine votes by state in a federal election. With Python's easy to learn syntax and powerful data analysis tools, its implementation into the voting environment would prove invaluable. 
+Python code is easily modified to apply to any election variables that might warrant scrutiny and is scalable to larger projects. For example, suppose the Colorado Board of Election is interested in examining results of larger cities within a certain county. The code used for tracking votes by county shown above could easily be modified to examine cities with larger populations. The same "for" loop design is applied to a **city_name** in **county_votes** for various cities tallied in the Elections Results data file. Also, by simply changing the link to the data file and a quick adjustment to variable names, this code can examine any sort of election results such as general or primary elections. In regard to scalability, the county design could be scaled up to examine votes by state in a federal election. 
+
+This analysis offers only a small glimpse into what Python can do. With Python's easy to learn syntax and powerful data analysis tools, its implementation into the voting environment would prove invaluable. 
 
 
 
