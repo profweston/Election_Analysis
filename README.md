@@ -29,23 +29,23 @@ Ballots were counted to tally the total number of votes across the three countie
   - Denver County had the largest number of votes.
   
   
-      ![Largest County](/Resources/Largest_County.png)
+ ![Largest_County](https://user-images.githubusercontent.com/108107856/178804018-9a576270-235e-4837-a6a2-074b0aaf447d.png)
+
 
   
   
   - Results by Candidate
 
-| Candidate           | Total Number of Votes | Percentage of Total Votes |
-|---------------------|:---------------------:|:-------------------------:|
-| Charles C. Stockham |         85,213        |           23.0%           |
-| Diana DeGette       |        272,892        |           73.8%           |
-| Raymon A. Doane     |         11,606        |            3.1%           |
+  | Candidate           | Total Number of Votes | Percentage of Total Votes |
+  |---------------------|:---------------------:|:-------------------------:|
+  | Charles C. Stockham |         85,213        |           23.0%           |
+  | Diana DeGette       |        272,892        |           73.8%           |
+  | Raymon A. Doane     |         11,606        |            3.1%           |
 
 
-    ![Candidate_Results](/Resources/Candidate_Results.png)
+  ![Candidate_Results](/Resources/Candidate_Results.png)
        
     
-
   - The winner of the election was Diana DeGette.
   
    ![Winner](/Resources/Winner.png)
